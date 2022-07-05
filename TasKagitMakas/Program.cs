@@ -87,6 +87,8 @@ namespace TasKagitMakas
                 }
                 Console.WriteLine($"Your score {playerScore} and computer's score {computerScore}");
                 Console.WriteLine("press enter to continue.");
+                Console.WriteLine("asdasdasdsadsadsadsadasd");
+                Console.WriteLine("asdasdasdsadsadsadsadasd");
 
                 Console.ReadKey();
             }
